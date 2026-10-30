@@ -50,8 +50,8 @@ jobs:
           cp dist/module.json dist/stage/module.json
           cp -r scripts lang dist/stage/
           cp -r assets/audio dist/stage/assets/
-          cp README.md CHANGELOG.md CREDITS.md dist/stage/
-          (cd dist/stage && zip -qr ../module.zip module.json README.md CHANGELOG.md CREDITS.md scripts lang assets)
+          cp README.md CHANGELOG.md CREDITS.md LICENSE NOTICE dist/stage/
+          (cd dist/stage && zip -qr ../module.zip module.json LICENSE NOTICE README.md CHANGELOG.md CREDITS.md scripts lang assets)
 
       - name: Publish release
         uses: softprops/action-gh-release@v2

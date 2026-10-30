@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.3.1 - 2026-10-30
+
+- Relicensed under GPL-3.0. Ships `LICENSE` and `NOTICE`.
+
 ## 0.3.0 - 2026-10-30
 
 First public release. Includes the 0.2.1 sound and playback changes, plus the Foundry release manifest and ZIP.

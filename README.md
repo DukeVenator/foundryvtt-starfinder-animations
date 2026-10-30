@@ -104,6 +104,12 @@ Thanks to my players for trying new weapons just to see what would happen.
 
 Not affiliated with Paizo or Foundry Gaming LLC.
 
+## License
+
+GPL-3.0. Use it, change it, and share it. If you distribute a modified version, it has to stay under the GPL and the source has to stay available. That applies to anyone who sells it too.
+
+See [LICENSE](LICENSE) and [NOTICE](NOTICE). The bundled sounds keep their own licenses; see [CREDITS.md](CREDITS.md).
+
 ## Development
 
 `npm test` runs without Foundry. `npm run fixtures` rebuilds the compendium snapshot from a local Starfinder checkout, or from `SFRPG_SYSTEM_DIR`.

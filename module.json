@@ -2,7 +2,7 @@
   "id": "sfrpg-weapon-fx",
   "title": "Starfinder Weapon FX",
   "description": "Adds JB2A animations and sound to Starfinder weapon attacks and spells. Pick a target, roll damage, and see the laser, grenade, melee swing, or spell.",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "authors": [
     {
       "name": "DukeVenator",
@@ -49,5 +49,6 @@
   "readme": "README.md",
   "bugs": "https://github.com/DukeVenator/foundryvtt-starfinder-animations/issues",
   "changelog": "CHANGELOG.md",
+  "license": "LICENSE",
   "media": []
 }
