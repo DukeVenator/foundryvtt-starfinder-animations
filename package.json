@@ -1,0 +1,9 @@
+{
+  "name": "sfrpg-weapon-fx",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/*.test.js",
+    "fixtures": "node tests/fixtures/build-compendium.mjs"
+  }
+}
