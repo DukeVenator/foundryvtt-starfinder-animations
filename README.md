@@ -98,7 +98,7 @@ Open an issue if something breaks, or if you want an effect for a specific weapo
 
 JB2A supplies the animations, Sequencer plays them, and both keep their own licenses. The animations aren't bundled with this module.
 
-Sound sources and licenses are in [CREDITS.md](CREDITS.md). `brawl.mp3` is CC BY 3.0 by CastIronCarousel.
+Sound sources and licenses are in [CREDITS.md](CREDITS.md).
 
 Thanks to my players for trying new weapons just to see what would happen.
 
